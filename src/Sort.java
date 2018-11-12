@@ -8,6 +8,7 @@ import java.util.Scanner;
 public class Sort {
 	
 	// PATH_READ powinna byc zmodyfikowana zgodnie z lokalizacja pliku fileToSort.txt
+	// oraz docelowa destynacja pliku fileSorted.txt
 	public static String PATH_READ = "C:\\Users\\Katarzyna\\Downloads\\fileToSort.txt";
 	public static String PATH_SAVE = "C:\\Users\\Katarzyna\\Downloads\\fileSorted.txt";
 	
